@@ -1,0 +1,9 @@
+{
+	"appId": "com.cricketpulse.app",
+	"appName": "Cricket Pulse",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"server": {
+		"androidScheme": "https"
+	}
+}
